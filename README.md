@@ -11,4 +11,5 @@
 ## Additional Documentation
 -Resume
 -Cover Letter
+-Projects
 ## Version Summary
