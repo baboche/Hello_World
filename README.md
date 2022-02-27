@@ -11,5 +11,5 @@
 ## Additional Documentation
 -Resume
 -Cover Letter
--[LinkedIn]https://www.linkedin.com/in/brayden-boche/
+-[LinkedIn](https://www.linkedin.com/in/brayden-boche/)
 ## Version Summary
